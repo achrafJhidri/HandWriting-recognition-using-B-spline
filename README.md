@@ -5,4 +5,4 @@ jupyter notebook
 pandas 
 keras 
 
-21points (x,y) as inputs as : x0,x1,x2,x3....x20,y0,....y20 in a csv File 
+21points(to describe 0...9a-z ) (x,y) as inputs as : x0,x1,x2,x3....x20,y0,....y20 in a csv File 
